@@ -1,5 +1,5 @@
 # Humor Classifier
-## Dataset Description
+### Dataset Description
 
 Dataset used [Link](https://github.com/CrowdTruth/Short-Text-Corpus-For-Humor-Detection)
 
@@ -15,7 +15,7 @@ It contains five pickle files:
 3. [Wikipedia Sentences](https://github.com/iamdsc/humor_detection/blob/master/datasets/wiki_sentences.pickle)
 
 
-Models used:
+Conclusion:
 
 
 |   Models Description	|   Accuracy	|  F1 Score 	|
